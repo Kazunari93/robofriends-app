@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Silverstone Sans Sans";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Silverstone Sans Sans"),
+    url("SilverstoneSans-X3GVK.woff") format("woff");
+}
+
+body {
+  background: linear-gradient(-135deg, #e4a972, #9941d8) fixed;
+}
+
+h1 {
+  font-family: "Silverstone Sans Sans";
+}
