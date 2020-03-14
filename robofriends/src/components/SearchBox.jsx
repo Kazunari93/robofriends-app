@@ -4,7 +4,7 @@ export const SearchBox = ({ searchfield, searchChange }) => {
   return (
     <div className="pa2">
       <input
-        className="pa3 ba b--washed-red bg-lightest-blue "
+        className="pa3  bg-washed-red "
         type="search"
         placeholder="search robots"
         onChange={searchChange}

@@ -3,6 +3,7 @@ import CardList from "./components/CardList";
 import SearchBox from "./components/SearchBox";
 import { robots } from "./robots";
 import "tachyons";
+import "./App.css";
 
 class App extends Component {
   constructor() {
